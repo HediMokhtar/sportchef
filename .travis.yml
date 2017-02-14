@@ -33,7 +33,7 @@ env:
 addons:
   sonarqube:
     token:
-      secure: e198b908ed5350d51f4cd6324163ad730e2f022a
+      secure: 2a567e20f8266ba91621db64d41bc33a396c8d5a
 
 
 script:
